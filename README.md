@@ -27,3 +27,5 @@ I like creating interfaces that are clean, responsive, and easy to use. Tailwind
 📚 Research
 
 Alongside development, I'm involved in academic research on education and other emerging topics. I'm especially interested in machine learning and AI, and I enjoy exploring how these technologies can be applied to solve real-world problems.
+
+you can reach me at : moonarahman2003@gmail.com
