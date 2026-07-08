@@ -1,13 +1,12 @@
 
 <p align="center">
-  <img src="download" alt="Banner" width="100%">
+  <img src="./download%20(4).jpg" alt="Banner" width="100%">
 </p>
 
-## Hi there! 👋 I'm Mahbuba Rahman Chowdhury (Muna)
+## Hi there! 👋 I'm Mahbuba Rahman Chowdhury Muna
 
 ### 💻 Full Stack Web Developer | CSE Undergraduate | AI & ML Research Enthusiast
 
----
 
 ### 👩‍💻 About Me
 
@@ -50,27 +49,32 @@ Alongside development, I'm involved in academic research on education and other 
 ### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,daisyui" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind" />
 </p>
 
 ### ⚙ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### 🗄 Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-### 🔧 Tools & Others
+### 🎨 UI Library
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
 </p>
 
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
 ---
 
 # 🌐 Connect With Me
