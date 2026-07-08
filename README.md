@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Banner" width="100%">
+  <img src="download" alt="Banner" width="100%">
 </p>
 
 ## Hi there! 👋 I'm Mahbuba Rahman Chowdhury (Muna)
@@ -50,7 +50,7 @@ Alongside development, I'm involved in academic research on education and other 
 ### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,daisyui" />
 </p>
 
 ### ⚙ Backend
@@ -62,13 +62,13 @@ Alongside development, I'm involved in academic research on education and other 
 ### 🗄 Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
 ### 🔧 Tools & Others
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ---
