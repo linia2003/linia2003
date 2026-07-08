@@ -3,13 +3,13 @@
   <img src="YOUR_BANNER_IMAGE_URL" alt="Banner" width="100%">
 </p>
 
-# Hi there! 👋 I'm Mahbuba Rahman Chowdhury (Muna)
+## Hi there! 👋 I'm Mahbuba Rahman Chowdhury (Muna)
 
 ### 💻 Full Stack Web Developer | CSE Undergraduate | AI & ML Research Enthusiast
 
 ---
 
-## 👩‍💻 About Me
+### 👩‍💻 About Me
 
 I'm a Computer Science & Engineering undergraduate who enjoys building full-stack web applications and learning new technologies along the way. I love turning ideas into real projects, whether it's a web application, a dashboard, or something that solves an everyday problem.
 
@@ -92,23 +92,4 @@ Alongside development, I'm involved in academic research on education and other 
 </p>
 
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muna-Rahman&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muna-Rahman&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Muna-Rahman&theme=tokyonight"/>
-
-</p>
-
----
 
