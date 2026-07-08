@@ -1,31 +1,115 @@
-Hi there! 👋 I'm Muna
+
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_URL" alt="Banner" width="100%">
+</p>
+
+# Hi there! 👋 I'm Mahbuba Rahman Chowdhury (Muna)
+
+### 💻 Full Stack Web Developer | CSE Undergraduate | AI & ML Research Enthusiast
+
+---
+
+## 👩‍💻 About Me
 
 I'm a Computer Science & Engineering undergraduate who enjoys building full-stack web applications and learning new technologies along the way. I love turning ideas into real projects, whether it's a web application, a dashboard, or something that solves an everyday problem.
 
 At the moment, I'm focused on improving my skills in the MERN stack and exploring modern web development practices.
 
-🌱 Currently Working With
-Next.js
-Node.js
-Express.js
-MongoDB
-JavaScript
-Tailwind CSS
-DaisyUI
-
 I'm always trying to write cleaner code, build better user experiences, and learn something new with every project.
 
-🚀 What I'm Working On
-💻 Full-Stack Development
+---
+
+## 🚀 Current Activities
+
+- 🌱 Exploring **Next.js** and modern React development
+- 💻 Working on full-stack MERN projects
+- 🏝️ Building a web-based developer webspace
+- 🤖 Learning more about Machine Learning and AI
+- 📚 Conducting academic research on education and emerging technologies
+
+---
+
+## 💻 What I'm Working On
+
+### 💻 Full-Stack Development
 
 I enjoy building web applications from both the frontend and backend. My recent projects involve Next.js, Node.js, Express, and MongoDB, with features like authentication, role-based access, payment integration, and responsive dashboards.
 
-🎨 UI Design
+### 🎨 UI Design
 
 I like creating interfaces that are clean, responsive, and easy to use. Tailwind CSS and DaisyUI are my go-to tools, and I enjoy experimenting with modern design styles like glassmorphism while keeping my code organized and readable.
 
-📚 Research
+### 📚 Research
 
-Alongside development, I'm involved in academic research on education and other emerging topics. I'm especially interested in machine learning and AI, and I enjoy exploring how these technologies can be applied to solve real-world problems.
+Alongside development, I'm involved in academic research on education and other emerging topics. I'm especially interested in Machine Learning and AI, and I enjoy exploring how these technologies can be applied to solve real-world problems.
 
-you can reach me at : moonarahman2003@gmail.com
+---
+
+# 🛠 Skills
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind" />
+</p>
+
+### ⚙ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+</p>
+
+### 🔧 Tools & Others
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/Muna-Rahman">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/muna-rahman-chowdhury-5961a3378">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:moonarahman2003@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+⭐ Thanks for visiting my profile!
