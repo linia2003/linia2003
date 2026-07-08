@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./download%20(4).jpg" alt="Banner" width="100%">
+  <img src="./gitbanner.jpg" alt="Banner" width="100%">
 </p>
 
 ## Hi there! 👋 I'm Mahbuba Rahman Chowdhury Muna
